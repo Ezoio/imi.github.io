@@ -25,23 +25,23 @@
 
 | 项目        | 链接   | 
 | :--------:   | :-----:  |
-| 微信拼图游戏      | https://github.com/Ezoio/jigsaw   |  
-| 猿程之家论坛 | https://github.com/Ezoio/HomeBlogNew|
-| 安卓遥控器代码        |   https://github.com/Ezoio/bluecar   | 
-|开源轮子、工具 |https://github.com/Ezoio/IMI-SOURCE-CODE|
+| 微信拼图游戏      | [https://github.com/Ezoio/jigsaw  ](https://github.com/Ezoio/jigsaw  ) |  
+| 猿程之家论坛 | [https://github.com/Ezoio/HomeBlogNew](https://github.com/Ezoio/HomeBlogNew) |
+| 安卓遥控器代码        |   [https://github.com/Ezoio/bluecar](https://github.com/Ezoio/bluecar)   | 
+|开源轮子、工具 | [https://github.com/Ezoio/IMI-SOURCE-CODE](https://github.com/Ezoio/IMI-SOURCE-CODE) |
 
 ### 工作经历
 
 ```flow
-st=>start: 2017.07亚信实习生
+start=>start: 2017.07亚信实习生
 op=>operation: 2017-2018.07 亚信实习
 op2=>operation: 2017-2018 亚信实习
 op3=>operation: 2018.06 大学毕业
 op4=>operation: 2018.07-2019.09 湖南亚信
 cond=>condition: 登陆成功 Yes or No?
-e=>end: 路在脚下
+where=>end: 路在脚下
 
-st->op->op2->op3->op4->e
+start->op->op2->op3->op4->where
 ```  
     
 ## 个人介绍
