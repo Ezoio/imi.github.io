@@ -14,10 +14,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: 个人主页
-theme: jekyll-theme-beautiful
+title: 彭智慧
+theme: jekyll-theme-cayman
 description: > # this means to ignore newlines until "baseurl:"
-  Material theme based on <a href="http://materializecss.com">Materialize.css</a> for jekyll sites
+less need more
 baseurl: "/"
 url: "https://knightyun.github.io"
 permalink: /:year/:month/:day/:title
