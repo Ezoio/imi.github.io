@@ -28,4 +28,4 @@
         热爱跑步
             永远相信美好的事物！    
 
-![简历下载地址](https://github.com/Ezoio/pzh/raw/master/%E5%BA%94%E8%81%98Java%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91__%E5%BD%AD%E6%99%BA%E6%85%A7.pdf)    
+[简历下载地址](https://github.com/Ezoio/pzh/raw/master/%E5%BA%94%E8%81%98Java%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91__%E5%BD%AD%E6%99%BA%E6%85%A7.pdf)    
